@@ -1,0 +1,6 @@
+## Interface: 90005
+## Title: DotIndicator
+## Version: 9.0.5
+## Notes: Indicates when DoTs are active on a target
+## Author: mdevlin1
+DotIndicator.lua
